@@ -1,4 +1,4 @@
-package vc1Semana2;
+package vc1Semana2;//jajaja
 
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
